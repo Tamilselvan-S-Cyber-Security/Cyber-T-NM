@@ -57,11 +57,11 @@ The application leverages cutting-edge security algorithms to identify malicious
 
 | Home Screen | Loading | Sign Up |
 |--------------|----------|---------|
-| ![Home](images/1.png) | ![Loading](images/2.png) | ![Sign Up](images/3.png) |
+| ![Home](images/1.png) | ![Loading](images/2.png) | ![Sign Up](images/13.png) |
 
 | Sign In | Registration Success |
 |----------|----------------------|
-| ![Sign In](images/4.png) | ![Registration Success](./assets/ui-screens/phishing-screen.png) |
+| ![Sign In](images/14.png) | ![Registration Success](images/15.png) |
 
 </div>
 
