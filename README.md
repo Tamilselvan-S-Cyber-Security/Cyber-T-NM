@@ -55,13 +55,13 @@ The application leverages cutting-edge security algorithms to identify malicious
 
 <div align="center">
 
-| Home Screen | Threat Scanner | Call Filter |
-|-------------|----------------|-------------|
-| ![Home](./assets/ui-screens/home-screen.png) | ![Scanner](./assets/ui-screens/scanner-screen.png) | ![Filter](./assets/ui-screens/call-filter-screen.png) |
+| Home Screen | Loading | Sign Up |
+|--------------|----------|---------|
+| ![Home](images/1.png) | ![Loading](images/2.png) | ![Sign Up](images/3.png) |
 
-| Permission Checker | Phishing Detector | Alert Settings |
-|-------------------|-------------------|----------------|
-| ![Permissions](./assets/ui-screens/permission-screen.png) | ![Phishing](./assets/ui-screens/phishing-screen.png) | ![Alerts](./assets/ui-screens/alert-screen.png) |
+| Sign In | Registration Success |
+|----------|----------------------|
+| ![Sign In](images/4.png) | ![Registration Success](./assets/ui-screens/phishing-screen.png) |
 
 </div>
 
