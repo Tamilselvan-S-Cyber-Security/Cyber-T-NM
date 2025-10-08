@@ -1,8 +1,9 @@
-# Cyber-T - Mobile Security & Threat Detection App
+# Cyber-T 
+**Mobile Security & Threat Detection App**
 
 <div align="center">
 
-![Cyber-T Logo](./assets/app-logo.png)
+![Cyber-T Logo](logo/cyber-T%20UI_UX-Photoroom.png)
 
 **Your Ultimate Mobile Security Companion**
 
