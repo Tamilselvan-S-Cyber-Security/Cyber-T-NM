@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iPhone 14 Pro Max Viewer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="phone-frame">
+        <!-- Dynamic Island -->
+        <div class="dynamic-island"></div>
+        
+        <!-- iPhone Screen -->
+        <div class="screen">
+            <div class="status-bar">
+                <span class="time">9:41</span>
+                <div class="right-icons">
+                    <svg class="icon" viewBox="0 0 16 16" fill="white">
+                        <path d="M11.5 1a.5.5 0 0 1 .5.5v12a.5.5 0 0 1-1 0v-12a.5.5 0 0 1 .5-.5zm-3 0a.5.5 0 0 1 .5.5v12a.5.5 0 0 1-1 0v-12a.5.5 0 0 1 .5-.5zm-3 0a.5.5 0 0 1 .5.5v12a.5.5 0 0 1-1 0v-12a.5.5 0 0 1 .5-.5z"/>
+                    </svg>
+                    <svg class="icon" viewBox="0 0 16 16" fill="white">
+                        <path d="M2 6a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V6z"/>
+                    </svg>
+                    <span class="battery">100%</span>
+                </div>
+            </div>
+            
+            <iframe 
+                id="website-frame"
+                src="https://cyber-t-cyberwolf.web.app/"
+                frameborder="0"
+                allowfullscreen
+            ></iframe>
+        </div>
+        
+        <!-- Side Buttons -->
+        <div class="side-button silent"></div>
+        <div class="side-button volume-up"></div>
+        <div class="side-button volume-down"></div>
+        <div class="side-button power"></div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
+
