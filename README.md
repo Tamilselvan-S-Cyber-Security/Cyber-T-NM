@@ -1374,13 +1374,7 @@ Send one:
       <sub>UI Color Code Manager & UX Tester</sub><br />
       <sub>🎨 Color Systems | ✅ Quality Assurance</sub>
     </td>
-    <td align="center">
-      <img src="./assets/team/bharath.png" width="100px;" alt="Bharath"/><br />
-      <sub><b>Bharath</b></sub><br />
-      <sub>Image Optimizer & Icon Developer</sub><br />
-      <sub>🖼️ Asset Optimization | 🎯 Icon Design</sub>
-    </td>
-  </tr>
+    
 </table>
 
 ### Roles & Responsibilities
