@@ -1368,12 +1368,7 @@ Send one:
       <sub>Developer & UI Designer</sub><br />
       <sub>⚡ Full-stack Development | 🎨 Interface Design</sub>
     </td>
-    <td align="center">
-      <img src="https://www.cyberwolf.pro/assets/speaker2-Cf4i1d7_.png" width="100px;" alt="Pugazhmani K"/><br />
-      <sub><b>Pugazhmani K</b></sub><br />
-      <sub>UI Color Code Manager & UX Tester</sub><br />
-      <sub>🎨 Color Systems | ✅ Quality Assurance</sub>
-    </td>
+    
     
 </table>
 
